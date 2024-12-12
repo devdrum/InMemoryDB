@@ -1,4 +1,4 @@
-InMemoryDB - a sample program storing a dictionary of key-value pairs and handling changes via transactions similar to a DB
+InMemoryDB - a sample c#/.net Core 8.0 console application storing a dictionary of key-value pairs and handling changes via transactions similar to a DB
 =============================================================
 
 Welcome to the source repository for InMemoryDB. InMemoryDB is a c# class that keeps track of a dictionary, and allows users the following functironality:
