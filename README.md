@@ -3,11 +3,11 @@ InMemoryDB - a sample program storing a dictionary of key-value pairs and handli
 
 Welcome to the source repository for InMemoryDB. InMemoryDB is a c# class that keeps track of a dictionary, and allows users the following functironality:
 
-Get - retrieves value for provided key
-Put - Inserts/Updates provided key/value pair (requires transaction in process)
-Begin_Transaction - begins a transaction, this is followed by adds/updates, as well as a rollback or commit (requires transaction not already be in progress)
-Commit - commits changes since transaction begin (requires transaction in progress)
-Rollback - reverts any changes made since transaction has begun (requires transaction in progress)
+* Get - retrieves value for provided key
+* Put - Inserts/Updates provided key/value pair (requires transaction in process)
+* Begin_Transaction - begins a transaction, this is followed by adds/updates, as well as a rollback or commit (requires transaction not already be in progress)
+* Commit - commits changes since transaction begin (requires transaction in progress)
+* Rollback - reverts any changes made since transaction has begun (requires transaction in progress)
 
 Getting Started for Developers:
 -------------------------------
