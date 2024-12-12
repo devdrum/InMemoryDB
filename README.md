@@ -25,7 +25,7 @@ Build Instructions:
 -------------------
 
 * Open Visual Studio
-* Clone GitHub Repository using Visual Studio, using the link in the green code button above. Alternatively, you can download the repository to your machine and open the solution file located in /src/Greenshot.sln.
+* Clone GitHub Repository using Visual Studio, using the link in the green code button above. Alternatively, you can download the repository to your machine and open the solution file located in the root directory.
 * Choose Build->Build Solution in Visual Studio to build binaries.
 * Verify all components are built successfully.
 * You are ready to start using InMemoryDB
